@@ -463,7 +463,7 @@
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#sn_80_120-pushpin</styleUrl>
+			<styleUrl>#sn_80_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-9.123671,38.778306,0</coordinates>
