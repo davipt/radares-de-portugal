@@ -418,6 +418,57 @@
 				<coordinates>-8.506506,41.197155,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>Radar 50 Marvilla S-N</name>
+			<LookAt>
+				<longitude>-9.10398</longitude>
+				<latitude>38.734245</latitude>
+				<altitude>0</altitude>
+				<heading>10</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.10398,38.734245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 50 Marvilla N-S</name>
+			<LookAt>
+				<longitude>-9.104214000000001</longitude>
+				<latitude>38.734257</latitude>
+				<altitude>0</altitude>
+				<heading>-170</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.104214000000001,38.734257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 Lisboa, 2ª Circular, N-S</name>
+			<LookAt>
+				<longitude>-9.123671</longitude>
+				<latitude>38.778306</latitude>
+				<altitude>0</altitude>
+				<heading>-180</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_120-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.123671,38.778306,0</coordinates>
+			</Point>
+		</Placemark>
 	</Folder>
 </Document>
 </kml>
