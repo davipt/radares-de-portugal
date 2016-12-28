@@ -300,6 +300,57 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Radar 80 IC19, Cacém, O-E</name>
+			<LookAt>
+				<longitude>-9.304295</longitude>
+				<latitude>38.76581</latitude>
+				<altitude>0</altitude>
+				<heading>90</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.304295,38.76581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 IC19, Queluz, O-E</name>
+			<LookAt>
+				<longitude>-9.262266</longitude>
+				<latitude>38.747491</latitude>
+				<altitude>0</altitude>
+				<heading>90</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.262266,38.747491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 100 IC19, Queluz, E-O</name>
+			<LookAt>
+				<longitude>-9.255482000000001</longitude>
+				<latitude>38.748755</latitude>
+				<altitude>0</altitude>
+				<heading>-110</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_100_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.255482000000001,38.748755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Radar 120 A2, Amora, O-E</name>
 			<LookAt>
 				<longitude>-9.11871</longitude>
