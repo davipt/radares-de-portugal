@@ -5,48 +5,58 @@
 	<open>1</open>
 	<Style id="sn_50_128">
 		<IconStyle>
-			<scale>0.8</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/50_128.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="sn_70_128">
 		<IconStyle>
-			<scale>0.8</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/70_128.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="sn_80_128">
 		<IconStyle>
-			<scale>0.8</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/80_128.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="sn_100_128">
 		<IconStyle>
-			<scale>0.8</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/100_128.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="sn_120_128">
 		<IconStyle>
-			<scale>0.8</scale>
+			<scale>0.5</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/120_128.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Folder>
 		<name>Radares</name>
@@ -83,6 +93,23 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-9.202574,38.695266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 50 Lisboa, S. Francisco Xavier, N-S</name>
+			<LookAt>
+				<longitude>-9.214886</longitude>
+				<latitude>38.711262</latitude>
+				<altitude>0</altitude>
+				<heading>-170</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.214886,38.711262,95.8624413023051</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
