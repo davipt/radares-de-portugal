@@ -130,6 +130,40 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Radar 80 Lisboa, 2ª Circular, Benfica, O-E</name>
+			<LookAt>
+				<longitude>-9.193422999999999</longitude>
+				<latitude>38.745424</latitude>
+				<altitude>0</altitude>
+				<heading>60</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.193422999999999,38.745424,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 Lisboa, 2ª Circular, Repsol, O-E</name>
+			<LookAt>
+				<longitude>-9.140098999999999</longitude>
+				<latitude>38.762991</latitude>
+				<altitude>0</altitude>
+				<heading>79.99999999992025</heading>
+				<tilt>70</tilt>
+				<range>69.99998888214024</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.140098999999999,38.762991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Radar 50 Oeiras, Sto. Amaro, Av. Marginal, E-O</name>
 			<LookAt>
 				<longitude>-9.310335</longitude>
