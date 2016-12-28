@@ -2,46 +2,50 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Radares.kml</name>
+	<open>1</open>
 	<Style id="sn_50_128">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>0.8</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/50_128.png</href>
 			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
 	<Style id="sn_70_128">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>0.8</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/70_128.png</href>
 			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
 	<Style id="sn_80_128">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>0.8</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/80_128.png</href>
 			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
 	<Style id="sn_100_128">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>0.8</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/100_128.png</href>
 			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<Style id="sn_120_128">
 		<IconStyle>
-			<scale>1.2</scale>
+			<scale>0.8</scale>
 			<Icon>
 				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/120_128.png</href>
 			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
 	<Folder>
@@ -262,7 +266,7 @@
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#sn_100_1280</styleUrl>
+			<styleUrl>#sn_100_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-9.199790999999999,38.866647,0</coordinates>
@@ -279,7 +283,7 @@
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#sn_120_1280</styleUrl>
+			<styleUrl>#sn_120_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-8.506506,41.197155,0</coordinates>
