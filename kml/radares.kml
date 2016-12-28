@@ -67,7 +67,7 @@
 				<longitude>-9.207235691673963</longitude>
 				<latitude>38.6948224037598</latitude>
 				<altitude>0</altitude>
-				<heading>-109</heading>
+				<heading>-110</heading>
 				<tilt>70</tilt>
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
@@ -98,8 +98,8 @@
 		<Placemark>
 			<name>Radar 50 Lisboa, S. Francisco Xavier, N-S</name>
 			<LookAt>
-				<longitude>-9.214886</longitude>
-				<latitude>38.711262</latitude>
+				<longitude>-9.214926</longitude>
+				<latitude>38.711255</latitude>
 				<altitude>0</altitude>
 				<heading>-170</heading>
 				<tilt>70</tilt>
@@ -109,7 +109,24 @@
 			<styleUrl>#sn_50_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.214886,38.711262,95.8624413023051</coordinates>
+				<coordinates>-9.214926,38.711255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 50 Lisboa, RTP, N-S</name>
+			<LookAt>
+				<longitude>-9.108153</longitude>
+				<latitude>38.757201</latitude>
+				<altitude>0</altitude>
+				<heading>110</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.108153,38.757201,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -194,7 +211,7 @@
 			<styleUrl>#sn_100_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.231835999999999,38.716686,78.61906974748732</coordinates>
+				<coordinates>-9.231835999999999,38.716686,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -220,9 +237,9 @@
 				<longitude>-9.250565000034985</longitude>
 				<latitude>38.71859999993408</latitude>
 				<altitude>0</altitude>
-				<heading>-150.0000000000253</heading>
+				<heading>-150</heading>
 				<tilt>70</tilt>
-				<range>70.00001033203414</range>
+				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<styleUrl>#sn_120_128</styleUrl>
@@ -237,7 +254,7 @@
 				<longitude>-9.190282</longitude>
 				<latitude>38.72542</latitude>
 				<altitude>0</altitude>
-				<heading>90.00000000012864</heading>
+				<heading>90</heading>
 				<tilt>70</tilt>
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
@@ -283,7 +300,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 100 A8, Sr. Roubado N-S</name>
+			<name>Radar 100 A8, Salemas N-S</name>
 			<LookAt>
 				<longitude>-9.199790999999999</longitude>
 				<latitude>38.866647</latitude>
