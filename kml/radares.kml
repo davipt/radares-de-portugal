@@ -47,6 +47,17 @@
 		<ListStyle>
 		</ListStyle>
 	</Style>
+	<Style id="sn_90_128">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/90_128.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="sn_100_128">
 		<IconStyle>
 			<scale>0.5</scale>
