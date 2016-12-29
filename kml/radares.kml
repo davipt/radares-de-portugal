@@ -328,20 +328,122 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 50 Oeiras, Sto. Amaro, Av. Marginal, E-O</name>
+			<name>Radar 70 IC20, Costa Caparica, N-S</name>
 			<LookAt>
-				<longitude>-9.310335</longitude>
-				<latitude>38.685531</latitude>
+				<longitude>-9.228642000000001</longitude>
+				<latitude>38.648547</latitude>
 				<altitude>0</altitude>
-				<heading>-90</heading>
+				<heading>170</heading>
 				<tilt>70</tilt>
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#sn_50_128</styleUrl>
+			<styleUrl>#sn_70_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.310335,38.685531,0</coordinates>
+				<coordinates>-9.228642000000001,38.648547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 70 IC20, Pragal, O-E</name>
+			<LookAt>
+				<longitude>-9.184061</longitude>
+				<latitude>38.662522</latitude>
+				<altitude>0</altitude>
+				<heading>70</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_70_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.184061,38.662522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 120 A2, Fanqueiro, S-N</name>
+			<LookAt>
+				<longitude>-9.163783</longitude>
+				<latitude>38.644532</latitude>
+				<altitude>0</altitude>
+				<heading>-50</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_120_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.163783,38.644532,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 120 A2, Amora, O-E</name>
+			<LookAt>
+				<longitude>-9.11871</longitude>
+				<latitude>38.614019</latitude>
+				<altitude>0</altitude>
+				<heading>110</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_120_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.11871,38.614019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 IC19, Cacém, O-E</name>
+			<LookAt>
+				<longitude>-9.304295</longitude>
+				<latitude>38.76581</latitude>
+				<altitude>0</altitude>
+				<heading>90</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.304295,38.76581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 IC19, Massamá, O-E</name>
+			<LookAt>
+				<longitude>-9.262266</longitude>
+				<latitude>38.747491</latitude>
+				<altitude>0</altitude>
+				<heading>90</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.262266,38.747491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 100 IC19, Queluz, E-O</name>
+			<LookAt>
+				<longitude>-9.255482000000001</longitude>
+				<latitude>38.748755</latitude>
+				<altitude>0</altitude>
+				<heading>-110</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_100_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.255482000000001,38.748755,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -379,54 +481,20 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 80 IC17, Sr. Roubado, O-E</name>
+			<name>Radar 50 Oeiras, Sto. Amaro, Av. Marginal, E-O</name>
 			<LookAt>
-				<longitude>-9.180066</longitude>
-				<latitude>38.783388</latitude>
+				<longitude>-9.310335</longitude>
+				<latitude>38.685531</latitude>
 				<altitude>0</altitude>
-				<heading>70</heading>
+				<heading>-90</heading>
 				<tilt>70</tilt>
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#sn_80_128</styleUrl>
+			<styleUrl>#sn_50_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.180066,38.783388,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 100 A5, Linda-a-Velha O-E</name>
-			<LookAt>
-				<longitude>-9.231835999999999</longitude>
-				<latitude>38.716686</latitude>
-				<altitude>0</altitude>
-				<heading>110</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_100_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.231835999999999,38.716686,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 120 A5, Jamor, O-E</name>
-			<LookAt>
-				<longitude>-9.258388999999999</longitude>
-				<latitude>38.713407</latitude>
-				<altitude>0</altitude>
-				<heading>90</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_120_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.258388999999999,38.713407,0</coordinates>
+				<coordinates>-9.310335,38.685531,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -447,6 +515,23 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Radar 100 A5, Linda-a-Velha O-E</name>
+			<LookAt>
+				<longitude>-9.231835999999999</longitude>
+				<latitude>38.716686</latitude>
+				<altitude>0</altitude>
+				<heading>110</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_100_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.231835999999999,38.716686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Radar 120 A5, Monsanto, O-E</name>
 			<LookAt>
 				<longitude>-9.190282</longitude>
@@ -464,63 +549,12 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 80 IC19, Cacém, O-E</name>
+			<name>Radar 120 A5, Jamor, O-E</name>
 			<LookAt>
-				<longitude>-9.304295</longitude>
-				<latitude>38.76581</latitude>
+				<longitude>-9.258388999999999</longitude>
+				<latitude>38.713407</latitude>
 				<altitude>0</altitude>
 				<heading>90</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_80_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.304295,38.76581,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 80 IC19, Queluz, O-E</name>
-			<LookAt>
-				<longitude>-9.262266</longitude>
-				<latitude>38.747491</latitude>
-				<altitude>0</altitude>
-				<heading>90</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_80_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.262266,38.747491,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 100 IC19, Queluz, E-O</name>
-			<LookAt>
-				<longitude>-9.255482000000001</longitude>
-				<latitude>38.748755</latitude>
-				<altitude>0</altitude>
-				<heading>-110</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_100_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.255482000000001,38.748755,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 120 A2, Amora, O-E</name>
-			<LookAt>
-				<longitude>-9.11871</longitude>
-				<latitude>38.614019</latitude>
-				<altitude>0</altitude>
-				<heading>110</heading>
 				<tilt>70</tilt>
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
@@ -528,24 +562,24 @@
 			<styleUrl>#sn_120_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.11871,38.614019,0</coordinates>
+				<coordinates>-9.258388999999999,38.713407,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 120 A2, Fanqueiro, S-N</name>
+			<name>Radar 80 IC17, Sr. Roubado, O-E</name>
 			<LookAt>
-				<longitude>-9.163783</longitude>
-				<latitude>38.644532</latitude>
+				<longitude>-9.180066</longitude>
+				<latitude>38.783388</latitude>
 				<altitude>0</altitude>
-				<heading>-50</heading>
+				<heading>70</heading>
 				<tilt>70</tilt>
 				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#sn_120_128</styleUrl>
+			<styleUrl>#sn_80_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.163783,38.644532,0</coordinates>
+				<coordinates>-9.180066,38.783388,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
