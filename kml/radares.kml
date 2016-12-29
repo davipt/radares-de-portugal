@@ -3,6 +3,17 @@
 <Document>
 	<name>radares-de-portugal.kml</name>
 	<open>0</open>
+	<Style id="sn_30_128">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>https://raw.githubusercontent.com/davipt/radares-de-portugal/master/icons/png/30_128.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
 	<Style id="sn_50_128">
 		<IconStyle>
 			<scale>0.5</scale>
@@ -280,6 +291,40 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-9.175416,38.716596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 50 Lisboa, Gago Coutinho, N-S</name>
+			<LookAt>
+				<longitude>-9.130623</longitude>
+				<latitude>38.752558</latitude>
+				<altitude>0</altitude>
+				<heading>-180</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.130623,38.752558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 30 Cacém, Ponte sobre IC19, S-N</name>
+			<LookAt>
+				<longitude>-9.300406000000001</longitude>
+				<latitude>38.766304</latitude>
+				<altitude>0</altitude>
+				<heading>-20</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_30_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.300406000000001,38.766304,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
