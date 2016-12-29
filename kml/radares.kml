@@ -328,6 +328,23 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Radar 90 Borba, N4, O-E</name>
+			<LookAt>
+				<longitude>-7.476883</longitude>
+				<latitude>38.814127</latitude>
+				<altitude>0</altitude>
+				<heading>-50</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_90_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-7.476883000000001,38.814127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Radar 70 IC20, Costa Caparica, N-S</name>
 			<LookAt>
 				<longitude>-9.228642000000001</longitude>
