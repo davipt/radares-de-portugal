@@ -339,7 +339,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 90 Borba, N4, O-E</name>
+			<name>Radar 90 N4, km 156, Borba, O-E</name>
 			<LookAt>
 				<longitude>-7.476883</longitude>
 				<latitude>38.814127</latitude>
@@ -356,7 +356,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 70 IC20, Costa Caparica, N-S</name>
+			<name>Radar 70 IC20, km 7, Caparica, N-S</name>
 			<LookAt>
 				<longitude>-9.228642000000001</longitude>
 				<latitude>38.648547</latitude>
@@ -373,7 +373,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 70 IC20, Pragal, O-E</name>
+			<name>Radar 70 IC20, km 2, Pragal, O-E</name>
 			<LookAt>
 				<longitude>-9.184061</longitude>
 				<latitude>38.662522</latitude>
@@ -390,7 +390,24 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 120 A2, Fanqueiro, S-N</name>
+			<name>Radar 70 IC20, km 2, Pragal, E-O</name>
+			<LookAt>
+				<longitude>-9.183692000000001</longitude>
+				<latitude>38.662889</latitude>
+				<altitude>0</altitude>
+				<heading>-120.0000000001705</heading>
+				<tilt>70.00042720564626</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_70_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.183692000000001,38.662889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 120 A2, km 9, Fanqueiro, S-N</name>
 			<LookAt>
 				<longitude>-9.163783</longitude>
 				<latitude>38.644532</latitude>
@@ -407,7 +424,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 120 A2, Amora, O-E</name>
+			<name>Radar 120 A2, km 12, Amora, O-E</name>
 			<LookAt>
 				<longitude>-9.11871</longitude>
 				<latitude>38.614019</latitude>
@@ -424,7 +441,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 80 IC19, Cacém, O-E</name>
+			<name>Radar 80 IC19, km 10, Cacém, O-E</name>
 			<LookAt>
 				<longitude>-9.304295</longitude>
 				<latitude>38.76581</latitude>
@@ -441,7 +458,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 80 IC19, Massamá, O-E</name>
+			<name>Radar 80 IC19, km 6, Massamá, O-E</name>
 			<LookAt>
 				<longitude>-9.262266</longitude>
 				<latitude>38.747491</latitude>
@@ -458,7 +475,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 100 IC19, Queluz, E-O</name>
+			<name>Radar 100 IC19, km 4, Queluz, E-O</name>
 			<LookAt>
 				<longitude>-9.255482000000001</longitude>
 				<latitude>38.748755</latitude>
@@ -475,7 +492,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 70 N6-3, Jamor, S-N</name>
+			<name>Radar 70 N6-3, km 0.7, Jamor, S-N</name>
 			<LookAt>
 				<longitude>-9.263024</longitude>
 				<latitude>38.706015</latitude>
@@ -492,7 +509,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 70 N6-3, Jamor, N-S</name>
+			<name>Radar 70 N6-3, km 1, Jamor, N-S</name>
 			<LookAt>
 				<longitude>-9.264063</longitude>
 				<latitude>38.708596</latitude>
@@ -509,7 +526,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 50 Oeiras, Sto. Amaro, Av. Marginal, E-O</name>
+			<name>Radar 50 N6, km 8, Sto. Amaro Oeiras, E-O</name>
 			<LookAt>
 				<longitude>-9.310335</longitude>
 				<latitude>38.685531</latitude>
@@ -526,58 +543,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 120 A5, Linda-a-Pastora, E-O</name>
-			<LookAt>
-				<longitude>-9.250565000034985</longitude>
-				<latitude>38.71859999993408</latitude>
-				<altitude>0</altitude>
-				<heading>-150</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_120_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.250546050059986,38.71862887315868,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 100 A5, Linda-a-Velha O-E</name>
-			<LookAt>
-				<longitude>-9.231835999999999</longitude>
-				<latitude>38.716686</latitude>
-				<altitude>0</altitude>
-				<heading>110</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_100_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.231835999999999,38.716686,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 120 A5, Monsanto, O-E</name>
-			<LookAt>
-				<longitude>-9.190282</longitude>
-				<latitude>38.72542</latitude>
-				<altitude>0</altitude>
-				<heading>90</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_120_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.190282,38.72542,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 120 A5, Jamor, O-E</name>
+			<name>Radar 120 A5, km 8, Jamor, O-E</name>
 			<LookAt>
 				<longitude>-9.258388999999999</longitude>
 				<latitude>38.713407</latitude>
@@ -594,7 +560,58 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 80 IC17, Sr. Roubado, O-E</name>
+			<name>Radar 120 A5, km 7, Linda-a-Pastora, E-O</name>
+			<LookAt>
+				<longitude>-9.250565000034985</longitude>
+				<latitude>38.71859999993408</latitude>
+				<altitude>0</altitude>
+				<heading>-150</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_120_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.250546050059986,38.71862887315868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 100 A5, km 5, Linda-a-Velha O-E</name>
+			<LookAt>
+				<longitude>-9.231835999999999</longitude>
+				<latitude>38.716686</latitude>
+				<altitude>0</altitude>
+				<heading>110</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_100_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.231835999999999,38.716686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 120 A5, km 1, Monsanto, O-E</name>
+			<LookAt>
+				<longitude>-9.190282</longitude>
+				<latitude>38.72542</latitude>
+				<altitude>0</altitude>
+				<heading>90</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_120_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.190282,38.72542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 IC17, km 13, Sr. Roubado, O-E</name>
 			<LookAt>
 				<longitude>-9.180066</longitude>
 				<latitude>38.783388</latitude>
@@ -628,7 +645,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 120 A1, KM2, S-N</name>
+			<name>Radar 120 A1, km 2, S-N</name>
 			<LookAt>
 				<longitude>-9.109299</longitude>
 				<latitude>38.798751</latitude>
@@ -645,7 +662,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 120 A1, Sta. Iria, N-S</name>
+			<name>Radar 120 A1, km 4, Sta. Iria, N-S</name>
 			<LookAt>
 				<longitude>-9.101432000000001</longitude>
 				<latitude>38.815421</latitude>
@@ -662,7 +679,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 120 A1, Aveiras, N-S</name>
+			<name>Radar 120 A1, km 42, Aveiras, N-S</name>
 			<LookAt>
 				<longitude>-8.92578</longitude>
 				<latitude>39.113352</latitude>
