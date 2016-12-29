@@ -113,6 +113,40 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Radar 50 Lisboa, Marvila, S-N</name>
+			<LookAt>
+				<longitude>-9.10398</longitude>
+				<latitude>38.734245</latitude>
+				<altitude>0</altitude>
+				<heading>10</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.10398,38.734245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 50 Lisboa, Marvila, N-S</name>
+			<LookAt>
+				<longitude>-9.104214000000001</longitude>
+				<latitude>38.734257</latitude>
+				<altitude>0</altitude>
+				<heading>-170</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.104214000000001,38.734257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Radar 50 Lisboa, RTP, N-S</name>
 			<LookAt>
 				<longitude>-9.108153</longitude>
@@ -127,6 +161,40 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-9.108153,38.757201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 Lisboa, 2ª Circular, Aeroporto, N-S</name>
+			<LookAt>
+				<longitude>-9.123671</longitude>
+				<latitude>38.778306</latitude>
+				<altitude>0</altitude>
+				<heading>-180</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.123671,38.778306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 Lisboa, 2ª Circular, Repsol, O-E</name>
+			<LookAt>
+				<longitude>-9.140098999999999</longitude>
+				<latitude>38.762991</latitude>
+				<altitude>0</altitude>
+				<heading>79.99999999992025</heading>
+				<tilt>70</tilt>
+				<range>69.99998888214024</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.140098999999999,38.762991,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -147,20 +215,71 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Radar 80 Lisboa, 2ª Circular, Repsol, O-E</name>
+			<name>Radar 80 Lisboa, Radial de Benfica, O-E</name>
 			<LookAt>
-				<longitude>-9.140098999999999</longitude>
-				<latitude>38.762991</latitude>
+				<longitude>-9.182513</longitude>
+				<latitude>38.743331</latitude>
 				<altitude>0</altitude>
-				<heading>79.99999999992025</heading>
+				<heading>110</heading>
 				<tilt>70</tilt>
-				<range>69.99998888214024</range>
+				<range>70</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
 			<styleUrl>#sn_80_128</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.140098999999999,38.762991,0</coordinates>
+				<coordinates>-9.182513,38.743331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 80 Lisboa, Radial de Benfica, E-O</name>
+			<LookAt>
+				<longitude>-9.178222</longitude>
+				<latitude>38.741524</latitude>
+				<altitude>0</altitude>
+				<heading>-60</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_80_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.178222,38.741524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 50 Lisboa, Av. Ceuta, N-S</name>
+			<LookAt>
+				<longitude>-9.175454</longitude>
+				<latitude>38.716612</latitude>
+				<altitude>0</altitude>
+				<heading>-170</heading>
+				<tilt>70.00042720566852</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.175454,38.716612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radar 50 Lisboa, Av. Ceuta, S-N</name>
+			<LookAt>
+				<longitude>-9.175416</longitude>
+				<latitude>38.716596</latitude>
+				<altitude>0</altitude>
+				<heading>20</heading>
+				<tilt>70</tilt>
+				<range>70</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#sn_50_128</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-9.175416,38.716596,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -416,57 +535,6 @@
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>-8.506506,41.197155,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 50 Marvilla S-N</name>
-			<LookAt>
-				<longitude>-9.10398</longitude>
-				<latitude>38.734245</latitude>
-				<altitude>0</altitude>
-				<heading>10</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_50_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.10398,38.734245,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 50 Marvilla N-S</name>
-			<LookAt>
-				<longitude>-9.104214000000001</longitude>
-				<latitude>38.734257</latitude>
-				<altitude>0</altitude>
-				<heading>-170</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_50_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.104214000000001,38.734257,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Radar 80 Lisboa, 2ª Circular, N-S</name>
-			<LookAt>
-				<longitude>-9.123671</longitude>
-				<latitude>38.778306</latitude>
-				<altitude>0</altitude>
-				<heading>-180</heading>
-				<tilt>70</tilt>
-				<range>70</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#sn_80_128</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-9.123671,38.778306,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
